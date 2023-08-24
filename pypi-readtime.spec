@@ -5,7 +5,7 @@
 #
 Name     : pypi-readtime
 Version  : 3.0.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/e2/9f/a8e3d08eab31d92e49ef2fe6423ce385503e74f793e0e1a81d343ea991d1/readtime-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e2/9f/a8e3d08eab31d92e49ef2fe6423ce385503e74f793e0e1a81d343ea991d1/readtime-3.0.0.tar.gz
 Summary  : Calculates the time some text takes the average human to read, based on Medium's read time forumula
@@ -69,7 +69,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1692911497
+export SOURCE_DATE_EPOCH=1692912087
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
